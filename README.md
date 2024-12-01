@@ -7,6 +7,7 @@
 #### 用法简介
 - 每次启动程序请输入默认浏览器对应的cookie
 - 然后挂着就行
+- 有Python环境的话可以用.py file, 如果没有可以直接用\dist目录下的exe
 #### cookie获取教程
 - 进入 https://bushiroad-store.com/cart
 - F12, 切换到Network（网络）视图后刷新（F5）
