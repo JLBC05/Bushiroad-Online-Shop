@@ -1,5 +1,4 @@
 ## BUSHIROAD ONLINE SHOP SCRIPT
-
 #### cookie获取教程
 - 进入 https://bushiroad-store.com/cart
 - F12, 切换到Network（网络）视图后刷新（F5）
